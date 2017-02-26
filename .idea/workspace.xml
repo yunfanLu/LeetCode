@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="219398ee-e604-4366-8e01-a8f5bd5f1886" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LRUCache/HashMapLearn.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/LRUCache/LRUCache.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/p417PacificAtlanticWaterFlow/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/p473MatchsticksToSquare/Solution.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/p513FindBottomLeftTreeValue/Solution.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,36 +21,12 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="LRUCache.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/LRUCache/LRUCache.java">
+      <file leaf-file-name="Solution.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/p417PacificAtlanticWaterFlow/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-192">
-              <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+            <state relative-caret-position="176">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMapLearn.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/LRUCache/HashMapLearn.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HashMap.java" pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="565" column="20" lean-forward="false" selection-start-line="565" selection-start-column="20" selection-end-line="565" selection-end-column="20" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#23597#23598#0" expanded="true" />
-                <element signature="e#23651#23652#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -81,6 +59,9 @@
       <list>
         <option value="$PROJECT_DIR$/src/LRUCache/LRUCache.java" />
         <option value="$PROJECT_DIR$/src/LRUCache/HashMapLearn.java" />
+        <option value="$PROJECT_DIR$/src/p513FindBottomLeftTreeValue/Solution.java" />
+        <option value="$PROJECT_DIR$/src/p473MatchsticksToSquare/Solution.java" />
+        <option value="$PROJECT_DIR$/src/p417PacificAtlanticWaterFlow/Solution.java" />
       </list>
     </option>
   </component>
@@ -95,6 +76,9 @@
     <option name="y" value="-9" />
     <option name="width" value="1859" />
     <option name="height" value="1098" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -111,7 +95,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -152,7 +135,29 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="LRUCache" />
+              <option name="myItemId" value="p513FindBottomLeftTreeValue" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Solution.java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="LeetCode" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="p417PacificAtlanticWaterFlow" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -160,6 +165,7 @@
       </pane>
       <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -169,8 +175,9 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="X:/KuJiale" />
   </component>
-  <component name="RunManager" selected="Application.HashMapLearn">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="false" name="LRUCache" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -199,6 +206,66 @@
         </pattern>
       </extension>
       <option name="MAIN_CLASS_NAME" value="LRUCache.HashMapLearn" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="p513FindBottomLeftTreeValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="p513FindBottomLeftTreeValue.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="p473MatchsticksToSquare.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="p473MatchsticksToSquare.Solution" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="LeetCode" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="p417PacificAtlanticWaterFlow.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="p417PacificAtlanticWaterFlow.Solution" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -580,14 +647,20 @@
       <envs />
       <method />
     </configuration>
-    <list size="2">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="Application.LRUCache" />
       <item index="1" class="java.lang.String" itemvalue="Application.HashMapLearn" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Solution (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Solution (2)" />
     </list>
     <recent_temporary>
-      <list size="2">
-        <item index="0" class="java.lang.String" itemvalue="Application.HashMapLearn" />
-        <item index="1" class="java.lang.String" itemvalue="Application.LRUCache" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Solution (2)" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Solution (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Solution" />
+        <item index="3" class="java.lang.String" itemvalue="Application.HashMapLearn" />
+        <item index="4" class="java.lang.String" itemvalue="Application.LRUCache" />
       </list>
     </recent_temporary>
   </component>
@@ -611,11 +684,13 @@
       <updated>1487678135424</updated>
       <workItem from="1487678142612" duration="1969000" />
       <workItem from="1487680157547" duration="6554000" />
+      <workItem from="1487867097098" duration="618000" />
+      <workItem from="1488090498663" duration="9748000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8523000" />
+    <option name="totallyTimeSpent" value="18889000" />
   </component>
   <component name="TodoView" selected-index="3">
     <todo-panel id="selected-file">
@@ -633,21 +708,20 @@
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32939914" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298647" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23472668" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="3" width="1965" height="1074" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28617364" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" x="0" y="3" width="1965" height="1074" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290461" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24116658" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24845766" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -659,6 +733,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -678,6 +753,54 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/LRUCache/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="33" lean-forward="false" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LRUCache/HashMapLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12430">
+          <caret line="565" column="20" lean-forward="false" selection-start-line="565" selection-start-column="20" selection-end-line="565" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LRUCache/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1672">
+          <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LRUCache/HashMapLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12430">
+          <caret line="565" column="20" lean-forward="false" selection-start-line="565" selection-start-column="20" selection-end-line="565" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LRUCache/LRUCache.java">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
@@ -695,7 +818,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="298">
           <caret line="466" column="24" lean-forward="false" selection-start-line="466" selection-start-column="24" selection-end-line="466" selection-end-column="24" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -703,10 +825,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-662">
           <caret line="3085" column="27" lean-forward="true" selection-start-line="3085" selection-start-column="27" selection-end-line="3085" selection-end-column="27" />
-          <folding>
-            <element signature="e#121368#121369#0" expanded="false" />
-            <element signature="e#121410#121411#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -714,10 +832,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="309">
           <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="false" />
-            <element signature="e#10148#10149#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -725,34 +839,65 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-22446">
           <caret line="128" column="17" lean-forward="false" selection-start-line="128" selection-start-column="17" selection-end-line="128" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11528">
+          <caret line="565" column="20" lean-forward="false" selection-start-line="565" selection-start-column="20" selection-end-line="565" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/LRUCache/HashMapLearn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="5" lean-forward="false" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/LRUCache/LRUCache.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-192">
-          <caret line="76" column="33" lean-forward="true" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
+        <state relative-caret-position="22">
+          <caret line="76" column="33" lean-forward="false" selection-start-line="76" selection-start-column="33" selection-end-line="76" selection-end-column="33" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/HashMap.java">
+    <entry file="file://$PROJECT_DIR$/src/p513FindBottomLeftTreeValue/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="565" column="20" lean-forward="false" selection-start-line="565" selection-start-column="20" selection-end-line="565" selection-end-column="20" />
+        <state relative-caret-position="220">
+          <caret line="20" column="51" lean-forward="true" selection-start-line="20" selection-start-column="51" selection-end-line="20" selection-end-column="51" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#23597#23598#0" expanded="true" />
-            <element signature="e#23651#23652#0" expanded="true" />
+            <element signature="e#225#226#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/LRUCache/HashMapLearn.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_25/src.zip!/java/util/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="39" lean-forward="true" selection-start-line="11" selection-start-column="39" selection-end-line="11" selection-end-column="39" />
+        <state relative-caret-position="696">
+          <caret line="671" column="13" lean-forward="false" selection-start-line="671" selection-start-column="13" selection-end-line="671" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p473MatchsticksToSquare/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="53" column="63" lean-forward="true" selection-start-line="53" selection-start-column="63" selection-end-line="53" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/p417PacificAtlanticWaterFlow/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
