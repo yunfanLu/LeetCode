@@ -17,4 +17,5 @@
 *.RTF	 diff=astextplain
 *.xml
 *.iml
-.idea/*
+
+\.idea/
