@@ -1,8 +1,5 @@
 package p011ContainerWithMostWater;
 
-import java.util.Arrays;
-
-import com.sun.org.apache.bcel.internal.generic.ReturnInstruction;
 /**
  * @description
  * Given n non-negative integers a1, a2, ..., an, where each represents a point at coordinate (i, ai). 

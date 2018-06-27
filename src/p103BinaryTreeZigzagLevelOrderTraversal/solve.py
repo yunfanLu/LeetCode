@@ -16,4 +16,5 @@ class Solution:
         b = []
         while len(a) != 0:
             for i in range(len(a)):
-                if i.le
+                # if i.le
+                pass

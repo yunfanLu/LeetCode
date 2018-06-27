@@ -13,8 +13,6 @@ public class Solution {
 		int[] ans = twoSum(nums, tag);
 	}
 
-	////因为可能出现重复的数字，所以每次加入的时候就判断。
-	//[0,4,2,0] 0
 	public static int[] twoSum(int[] nums, int tag) {
 		int l = 0;
 		int r = 0;

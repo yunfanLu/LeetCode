@@ -1,3 +1,5 @@
+package p665NondecreasingArray;
+
 import java.util.Scanner;
 
 public class Solution{
