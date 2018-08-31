@@ -19,6 +19,16 @@ class Solution:
     def addBinary(self, a, b):
         return bin(eval("0b" + a) + eval("0b" + b))[2:]
 
+class Solution2:
+    def addBinary(self, a, b):
+        """
+        :type a: str
+        :type b: str
+        :rtype: str
+        """
+        a, b = int('0b' + a, 2), int('0b' + b, 2)
+        return str(bin(a + b))[2:]
+
 class Solution1:
     def addBinary(self, a, b):
         """
