@@ -35,3 +35,23 @@ public class Solution {
 		System.out.println(end - begin + " ms");
 	}
 }
+
+class Solution2 {
+    private int dfs(int[] nums, int ind, int S){
+        if(ind == nums.length){
+            if(S == 0){
+                return 1;
+            }else{
+                return 0;
+            }
+        }
+        int res = 0;
+        res += dfs(nums, ind + 1, S + nums[ind]);
+        res += dfs(nums, ind + 1, S - nums[ind]);
+        return res;
+    }
+
+    public int findTargetSumWays(int[] nums, int S) {
+        return dfs(nums, 0, S);
+    }
+}
