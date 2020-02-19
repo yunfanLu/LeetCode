@@ -41,7 +41,7 @@ class Solution:
                    self._find_in_sorted_2d_array(tar, arr, h_c, w_m, h_h, w_c - 1) or \
                    self._find_in_sorted_2d_array(tar, arr, h_m, w_c, h_c - 1, w_h)
 
-    def Find(self, target, array):
+    def findNumberIn2DArray(self, array: List[List[int]], target: int) -> bool:
         """
         :param target: int
         :param array: 2d arrays
@@ -51,12 +51,3 @@ class Solution:
             return False
         h, w = len(array), len(array[0])
         return self._find_in_sorted_2d_array(target, array, 0, 0, h - 1, w - 1)
-
-def test():
-    t = 7
-    # a = [[1,2,8,9],[2,4,9,12],[4,7,10,13],[6,8,11,15]]
-    a = [[]]
-    print(Solution().Find(t, a))
-
-if __name__ == '__main__':
-    test()
